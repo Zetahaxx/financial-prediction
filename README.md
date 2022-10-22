@@ -1,2 +1,2 @@
 # financial-prediction
-financial prediction by multiple regression model is done
+financial prediction by multiple linear regression model is done
